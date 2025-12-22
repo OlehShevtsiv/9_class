@@ -5,6 +5,6 @@
 
 ## Фікс помилки встановлення пакету pygame
 
-https://www.python.org/downloads/latest/python3.11/
+https://www.python.org/ftp/python/3.11.0/python-3.11.0rc1-amd64.exe
 
 Під час встановлення поставте галочку "Add python.exe to PATH".
